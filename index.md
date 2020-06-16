@@ -1,6 +1,3 @@
----
-title: Hello
-layout: default
----
- 
-Hello!
+ - Assistant Professor of Information System Department, ITS 
+ - Vice Head of Halal Center ITS
+ - Email nur dot aini at is dot its dot ac dot id
