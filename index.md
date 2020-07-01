@@ -1,6 +1,11 @@
- - Assistant Professor of Information System Department, ITS 
+ - Assistant Professor of Information Systems Department, ITS 
  - Vice Chair for Halal Center ITS
  - Email nur dot aini at is dot its dot ac dot id
+ 
+ # Education
+ - B.S Department of Informatics, Institut Teknologi Sepuluh Nopember
+ - M.S Department of Electronic Engineering, National Taiwan University of Science and Technology
+ - Ph.D Insight Centre for Data Analytics, NUI Galway, Ireland
 
 # Recent Publications
 
