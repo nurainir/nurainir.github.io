@@ -2,7 +2,7 @@
  - Vice Chair for Halal Center ITS
  - Email nur dot aini at is dot its dot ac dot id
 
-Recent Publications
+# Recent Publications
 
 - Saputra, R. R., Muharram, H., Ayu, D. C., Afif, A., Jan, J., & Rakhmawati, N. A. (2020). Analisis Empiris Akun Jasa Gesek Tunai pada Instagram (process). ETTISAL : Journal of Communication, 5(1). https://doi.org/10.21111/ejoc.v5i1.3692
 - Rakhmawati, N. A., Alfarhizi, R., & Hafidz, I. (2020). Penerapan Social Network Analysis dengan Menggunakan Metode Sociomatrix pada Akun Instagram Siswa SMA di Surabaya. SISTEMASI, 9(2), 333. https://doi.org/10.32520/stmsi.v9i2.807
