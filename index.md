@@ -2,7 +2,7 @@
  - Vice Chair for Halal Center ITS
  - Email nur dot aini at is dot its dot ac dot id
  
- # Academic Accounts
+# Academic Accounts
  - Scopus [55513984400](https://www.scopus.com/authid/detail.uri?authorId=55513984400)
  - Google Scholar [scholar](https://scholar.google.com/citations?user=Nbqq79EAAAAJ&hl=id)
  - ORCID [0000-0002-1321-4564](https://orcid.org/0000-0002-1321-4564)
@@ -16,7 +16,7 @@
  - DBLP [Rakhmawati:Nur_Aini](https://dblp.uni-trier.de/pers/hd/r/Rakhmawati:Nur_Aini?q=Nur%20Aini%20Rakhmawati)
  - Arxiv [Rakhmawati](https://arxiv.org/search/cs?searchtype=author&query=Rakhmawati%2C+N+A)
  
- # Social Media Accounts
+# Social Media Accounts
  
  - Twitter [@nuraini](https://twitter.com/nuraini)
  - Instagram [@mamaandroid](https://www.instagram.com/mamaandroid/)
