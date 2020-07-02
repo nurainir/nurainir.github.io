@@ -2,7 +2,28 @@
  - Vice Chair for Halal Center ITS
  - Email nur dot aini at is dot its dot ac dot id
  
- # Education
+ # Academic Accounts
+ - Scopus [55513984400](https://www.scopus.com/authid/detail.uri?authorId=55513984400)
+ - Google Scholar [scholar](https://scholar.google.com/citations?user=Nbqq79EAAAAJ&hl=id)
+ - ORCID [0000-0002-1321-4564](https://orcid.org/0000-0002-1321-4564)
+ - Researchgate [Nur_Rakhmawati](https://www.researchgate.net/profile/Nur_Rakhmawati2)
+ - ImpactStory [0000-0002-1321-4564](https://profiles.impactstory.org/u/0000-0002-1321-4564)
+ - Mendeley [nur-rakhmawati2](https://www.mendeley.com/profiles/nur-rakhmawati2/)
+ - Academia [NurAiniRakhmawati](https://its.academia.edu/NurAiniRakhmawati)
+ - Sinta [29400](http://sinta.ristekbrin.go.id/authors/detail?id=29400)
+ - Garuda [356827](http://garuda.ristekbrin.go.id/author/view/356827)
+ - Zenodo [Nur Aini Rakhmawati](https://zenodo.org/search?page=1&size=20&q=nur%20aini%20rakhmawati)
+ - DBLP [Rakhmawati:Nur_Aini](https://dblp.uni-trier.de/pers/hd/r/Rakhmawati:Nur_Aini?q=Nur%20Aini%20Rakhmawati)
+ - Arxiv [Rakhmawati](https://arxiv.org/search/cs?searchtype=author&query=Rakhmawati%2C+N+A)
+ 
+ # Social Media Accounts
+ 
+ - Twitter [@nuraini](https://twitter.com/nuraini)
+ - Instagram [@mamaandroid](https://www.instagram.com/mamaandroid/)
+ - Facebook [nurainirakhmawati](https://facebook.com/nurainirakhmawati)
+ - Youtube [NurAiniRakhmawati](http://www.youtube.com/c/NurAiniRakhmawati)
+ 
+# Education
  - B.S Department of Informatics, Institut Teknologi Sepuluh Nopember
  - M.S Department of Electronic Engineering, National Taiwan University of Science and Technology
  - Ph.D Insight Centre for Data Analytics, NUI Galway, Ireland
