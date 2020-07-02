@@ -1,5 +1,5 @@
- - Assistant Professor of Information Systems Department, ITS 
- - Vice Chair for Halal Center ITS
+ - Assistant Professor of [Information Systems Department](https://www.its.ac.id/si/), [Institut Teknologi Sepuluh Nopember](https://www.its.ac.id/) Surabaya Indonesia
+ - Vice Chair for Halal Center  [Institut Teknologi Sepuluh Nopember](https://www.its.ac.id/)
  - Email nur dot aini at is dot its dot ac dot id
  
 # Academic Accounts
@@ -24,9 +24,9 @@
  - Youtube [NurAiniRakhmawati](http://www.youtube.com/c/NurAiniRakhmawati)
  
 # Education
- - B.S Department of Informatics, Institut Teknologi Sepuluh Nopember
- - M.S Department of Electronic Engineering, National Taiwan University of Science and Technology
- - Ph.D Insight Centre for Data Analytics, NUI Galway, Ireland
+ - B.S [Department of Informatics](https://if.its.ac.id/), [Institut Teknologi Sepuluh Nopember](https://www.its.ac.id/) Surabaya Indonesia
+ - M.S [Department of Electronic Engineering](https://ece-o.ntust.edu.tw/), [National Taiwan University of Science and Technology](https://www.ntust.edu.tw/) Taipei, Taiwan
+ - Ph.D [Insight Centre for Data Analytics](https://nuig.insight-centre.org/), [NUI Galway](www.nuigalway.ie/), Ireland
 
 # Recent Publications
 
