@@ -10,7 +10,7 @@
  - ImpactStory [0000-0002-1321-4564](https://profiles.impactstory.org/u/0000-0002-1321-4564)
  - Mendeley [nur-rakhmawati2](https://www.mendeley.com/profiles/nur-rakhmawati2/)
  - Academia [NurAiniRakhmawati](https://its.academia.edu/NurAiniRakhmawati)
- - Sinta [29400](http://sinta.ristekbrin.go.id/authors/detail?id=29400)
+ - Sinta [29400](http://sinta.ristekbrin.go.id/authors/detail?id=29400&view=overview)
  - Garuda [356827](http://garuda.ristekbrin.go.id/author/view/356827)
  - Zenodo [Nur Aini Rakhmawati](https://zenodo.org/search?page=1&size=20&q=nur%20aini%20rakhmawati)
  - DBLP [Rakhmawati:Nur_Aini](https://dblp.uni-trier.de/pers/hd/r/Rakhmawati:Nur_Aini?q=Nur%20Aini%20Rakhmawati)
