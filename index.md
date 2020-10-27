@@ -1,4 +1,4 @@
- - Assistant Professor of [Information Systems Department](https://www.its.ac.id/si/), [Institut Teknologi Sepuluh Nopember](https://www.its.ac.id/) Surabaya Indonesia
+ - Associate Professor of [Information Systems Department](https://www.its.ac.id/si/), [Institut Teknologi Sepuluh Nopember](https://www.its.ac.id/) Surabaya Indonesia
  - Vice Chair for Halal Center  [Institut Teknologi Sepuluh Nopember](https://www.its.ac.id/)
  - Email nur dot aini at is dot its dot ac dot id
  
