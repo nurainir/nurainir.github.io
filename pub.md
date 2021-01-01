@@ -17,7 +17,7 @@
  
  -  Jessica Aurelia Nadine, Ikhwan Jauhar, Alifa Rizki Rahmarani, and **Nur Aini Rakhmawati** ,*Analisis pengaruh profil toko resmi smartphonepada situs e-commerce terhadap tingkat pen-jualan*, JURNAL SISTEM DAN INFORMATIKA vol 15(2020), no. 1, 81–87
 
-Paper: [https://www.jsi.stikom-bali.ac.id/index.php/jsi/article/view/358]9(https://www.jsi.stikom-bali.ac.id/index.php/jsi/article/view/358)
+Paper: [https://www.jsi.stikom-bali.ac.id/index.php/jsi/article/view/358](https://www.jsi.stikom-bali.ac.id/index.php/jsi/article/view/358)
 Dataset/code: [http://doi.org/10.5281/zenodo.4164980](http://doi.org/10.5281/zenodo.4164980)
 
 - Arifansyah  Wicaksono,  Firqa  Aqila  Noor  Arasyi,  Muhammad  Muchlish,  and  **Nur  Aini Rakhmawati**,*Analisa peraturan terkait teknologi informasi tingkat kota kabupaten di provinsi jawa barat dengan metode k-means*, Jurnal Sains dan Informatika vol 6(2020), no. 2, 157–165
