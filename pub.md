@@ -1,11 +1,16 @@
 ## 2020
 
- 1. Puspa Nur Indrianingtyas, Fanny Azhary Formen, and **Nur Aini Rakhmawati**, *Analisis suku diindonesia menggunakan algoritma closeness centrality*, Positif : Jurnal Sistem dan TeknologiInformasi vol 6(2020), no. 2, 137–142.
+ - Puspa Nur Indrianingtyas, Fanny Azhary Formen, and **Nur Aini Rakhmawati**, *Analisis suku diindonesia menggunakan algoritma closeness centrality*, Positif : Jurnal Sistem dan TeknologiInformasi vol 6(2020), no. 2, 137–142.
  
  Paper: [https://ejurnal.poliban.ac.id/index.php/Positif/article/view/923](https://ejurnal.poliban.ac.id/index.php/Positif/article/view/923)
  Dataset/code:  [http://doi.org/10.5281/zenodo.3810747](http://doi.org/10.5281/zenodo.3810747)
 
- 2. Doohan Ryan Fathony, Sulthan Alif Secca Ramadhani, Vincentian Michae Anton Poetra, and **Nur Aini Rakhmawati**,*Analisa pengaruh sekolah daring terhadap meningkatnya pemainonline game,* POSITIF : Jurnal Sistem dan Teknologi Informasi vol 6(2020), no. 2, 121–126
+ - Doohan Ryan Fathony, Sulthan Alif Secca Ramadhani, Vincentian Michae Anton Poetra, and **Nur Aini Rakhmawati**,*Analisa pengaruh sekolah daring terhadap meningkatnya pemainonline game,* POSITIF : Jurnal Sistem dan Teknologi Informasi vol 6(2020), no. 2, 121–126
  
  Paper: [https://ejurnal.poliban.ac.id/index.php/Positif/article/view/1055](https://ejurnal.poliban.ac.id/index.php/Positif/article/view/1055)
  Dataset/code:  [http://doi.org/10.5281/zenodo.4255028](http://doi.org/10.5281/zenodo.4255028)
+
+- Muhammad Ainul Khakim, Brilliant Hartono, and **Nur Aini Rakhmawati**, *Analisis data keretaapi  dan  stasiun  pada  daerah  operasi  viii  surabaya  menggunakan  sparql  dengan  algoritma betweenness centrality*, CogITo Smart Journal Vol 6(2020), no. 2, 128–140. 
+
+ Paper: [http://cogito.unklab.ac.id/index.php/cogito/article/view/232](http://cogito.unklab.ac.id/index.php/cogito/article/view/232)
+ Dataset/code:  [http://doi.org/10.5281/zenodo.3810665](http://doi.org/10.5281/zenodo.3810665)
