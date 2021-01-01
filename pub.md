@@ -1,5 +1,3 @@
-# Nur Aini Rakhmawati Publications
-
 ## 2020
 
  1. Puspa Nur Indrianingtyas, Fanny Azhary Formen, and **Nur Aini Rakhmawati**, *Analisis suku diindonesia menggunakan algoritma closeness centrality*, Positif : Jurnal Sistem dan TeknologiInformasi vol 6(2020), no. 2, 137–142.
