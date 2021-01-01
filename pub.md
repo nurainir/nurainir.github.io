@@ -55,5 +55,15 @@ Paper: [https://ieeexplore.ieee.org/abstract/document/9274583/](https://ieeexplo
 
 Paper: [https://ejournal.bsi.ac.id/ejurnal/index.php/cakrawala/article/view/7013](https://ejournal.bsi.ac.id/ejurnal/index.php/cakrawala/article/view/7013)
 
+- Irhamah  Irhamah,  **Nur  Aini  Rakhmawati**,  and  Hendro  Nurhadi,Pengembangan  sistem  informasi sederhana untuk pengelolaan dan pengolahan data tol laut pt. pelni (persero) cabangsurabaya, SEWAGATI vol 4(2020), no. 2, 95–101.
 
+Paper: [http://www.iptek.its.ac.id/index.php/sewagati/article/view/6163](http://www.iptek.its.ac.id/index.php/sewagati/article/view/6163)
+
+- **Nur  Aini  Rakhmawati**,  Deanda  Bevani  Aletha,  Luh  Putu  Gayatri  Widiastuti,  AlexanderSidum Laka Kaki, and Achmad Thoriq Aminullah, *Klasterisasi  peraturan  daerah  di  seluruh wilayah  jawa  dengan  menggunakan  algoritma  k-means*,  Jurnal  Sisfokom  (Sistem  Informasidan Komputer) Vol 9(2020), no. 2, 242–246.
+
+Paper: [http://jurnal.atmaluhur.ac.id/index.php/sisfokom/article/view/816](http://jurnal.atmaluhur.ac.id/index.php/sisfokom/article/view/816)
+Dataset/Code: [https://doi.org/10.5281/zenodo.3700461](https://doi.org/10.5281/zenodo.3700461)
+
+- Rosyid Abdillah and **Nur Aini Rakhmawati**, *Modelling the measurement of engagement index of the regional governments’ social media in indonesia*, Jurnal Online Informatika Vol 5(2020),no. 1, 27–34.
+Paper: [http://join.if.uinsgd.ac.id/index.php/join/article/view/577](http://join.if.uinsgd.ac.id/index.php/join/article/view/577)
 
