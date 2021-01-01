@@ -65,5 +65,15 @@ Paper: [http://jurnal.atmaluhur.ac.id/index.php/sisfokom/article/view/816](http:
 Dataset/Code: [https://doi.org/10.5281/zenodo.3700461](https://doi.org/10.5281/zenodo.3700461)
 
 - Rosyid Abdillah and **Nur Aini Rakhmawati**, *Modelling the measurement of engagement index of the regional governments’ social media in indonesia*, Jurnal Online Informatika Vol 5(2020),no. 1, 27–34.
+
 Paper: [http://join.if.uinsgd.ac.id/index.php/join/article/view/577](http://join.if.uinsgd.ac.id/index.php/join/article/view/577)
+
+-  B.  Kesuma,  G.  Romadhani,  M.  R.  Nur  Ghozi,  S.  Khanza,  M.  K.  Wijaya,  and  **Nur  Aini Rakhmawati**, *Analisis empiris perilaku, hubungan dan persebaran game streamer pada facebook*, Jurnal Ilmu Sistem Informasi Vol 9(2020), no. 1, 8–13.
+
+Paper: [https://ejournals.umn.ac.id/index.php/SI/article/view/1279](https://ejournals.umn.ac.id/index.php/SI/article/view/1279)
+
+-  Andieka Rabbani, Novian Noormansyah, Refais Akbar Zufira, Ferdy Pramudya Firdaus, and **Nur Aini Rakhmawati** ,*Studi empiris peraturan daerah mengenai cctv terkait privasi data dikota-kota jawa timur*, Jurnal Bisnis, Manajemen, dan Informatika Vol 17(2020), no. 1, 80–87.
+
+Paper: [https://journal.unhas.ac.id/index.php/jbmi/article/view/9586](https://journal.unhas.ac.id/index.php/jbmi/article/view/9586)
+Dataset/code:[http://doi.org/10.5281/zenodo.3700541](http://doi.org/10.5281/zenodo.3700541)
 
