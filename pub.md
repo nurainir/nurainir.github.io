@@ -77,3 +77,6 @@ Paper: [https://ejournals.umn.ac.id/index.php/SI/article/view/1279](https://ejou
 Paper: [https://journal.unhas.ac.id/index.php/jbmi/article/view/9586](https://journal.unhas.ac.id/index.php/jbmi/article/view/9586)
 Dataset/code:[http://doi.org/10.5281/zenodo.3700541](http://doi.org/10.5281/zenodo.3700541)
 
+- Rahmat Hidayat,  Hapsari Wulandari,  Yumna Cahyaning,  Ardhi Dwi Firmansyah,  Brilliant Hartono, Rainal Yusril, and **Nur Aini Rakhmawati**, *Analisa permasalahan berbagai platform pinjaman daring (peer-to-peer lending) dan penanganannya di indonesia*, Inspiration:  JurnalTeknologi Informasi dan Komunikasi Vol 10(2020), no. 1, 45–56
+
+Paper: [https://jurnal.akba.ac.id/index.php/inspiration/article/view/2538](https://jurnal.akba.ac.id/index.php/inspiration/article/view/2538)
