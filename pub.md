@@ -1,5 +1,11 @@
 ## 2020
 
+- **Nur Aini Rakhmawati**, Ahmad Choirun Najib, *Discovering Entity Profiles Candidate for Entity Resolution on Linked Open Data Halal Food Products*, IEEE BIGDATA 2020
+
+Paper: To appear (IEEE)
+Dataset: [https://doi.org/10.5281/zenodo.4099125](https://doi.org/10.5281/zenodo.4099125)
+Code: [https://github.com/halaladdiits/halalentityresolution](https://github.com/halaladdiits/halalentityresolution)
+
  - Puspa Nur Indrianingtyas, Fanny Azhary Formen, and **Nur Aini Rakhmawati**, *Analisis suku diindonesia menggunakan algoritma closeness centrality*, Positif : Jurnal Sistem dan TeknologiInformasi vol 6(2020), no. 2, 137–142.
  
  Paper: [https://ejurnal.poliban.ac.id/index.php/Positif/article/view/923](https://ejurnal.poliban.ac.id/index.php/Positif/article/view/923)
