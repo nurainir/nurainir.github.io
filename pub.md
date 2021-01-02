@@ -15,8 +15,14 @@ Code: [https://github.com/halaladdiits/halalentityresolution](https://github.com
  
  Paper: [https://ejurnal.poliban.ac.id/index.php/Positif/article/view/1055](https://ejurnal.poliban.ac.id/index.php/Positif/article/view/1055)
  Dataset/code:  [http://doi.org/10.5281/zenodo.4255028](http://doi.org/10.5281/zenodo.4255028)
+ 
+- Sarah Ahya Khairunisa, Ana Mardiyah, Eva Agustine, and **Nur Aini Rakhmawati** ,*Analisis kepatuhan keamanan aplikasi e-goverment tingkat daerah sebagai penunjang new normal*, Explore: Jurnal Sistem Informasi dan Telematika (Telekomunikasi, Multimedia dan Informatika) vol 11(2020), no. 2, 75–83.
 
-- Muhammad Ainul Khakim, Brilliant Hartono, and **Nur Aini Rakhmawati**, *Analisis data keretaapi  dan  stasiun  pada  daerah  operasi  viii  surabaya  menggunakan  sparql  dengan  algoritma betweenness centrality*, CogITo Smart Journal Vol 6(2020), no. 2, 128–140. 
+Paper: [http://jurnal.ubl.ac.id/index.php/explore/article/view/1550](http://jurnal.ubl.ac.id/index.php/explore/article/view/1550)
+Dataset:[http://doi.org/10.5281/zenodo.4160433](http://doi.org/10.5281/zenodo.4160433)
+
+
+- Muhammad Ainul Khakim, Brilliant Hartono, and **Nur Aini Rakhmawati**, *Analisis data kereta api  dan  stasiun  pada  daerah  operasi  viii  surabaya  menggunakan  sparql  dengan  algoritma betweenness centrality*, CogITo Smart Journal Vol 6(2020), no. 2, 128–140. 
 
  Paper: [http://cogito.unklab.ac.id/index.php/cogito/article/view/232](http://cogito.unklab.ac.id/index.php/cogito/article/view/232)
  Dataset/code:  [http://doi.org/10.5281/zenodo.3810665](http://doi.org/10.5281/zenodo.3810665)
