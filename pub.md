@@ -106,3 +106,24 @@ Paper: [http://sistemasi.ftik.unisi.ac.id/index.php/stmsi/article/view/807](http
 - Dinatha, Pande Made Risky Cahya, and **Nur Aini Rakhmawati**. *Komparasi Term Weighting dan Word Embedding pada Klasifikasi Tweet Pemerintah Daerah.* Jurnal Nasional Teknik Elektro dan Teknologi Informasi 9.2: 155-161.
 
 Paper: [https://journal.ugm.ac.id/v3/JNTETI/article/view/90](https://journal.ugm.ac.id/v3/JNTETI/article/view/90)
+
+- Resistania  Anggita  Putri,  Nida  Inayah  Maghfirani,  Galih  Rendi  Setyawan,  Adam  Achmad Rayhan, and **Nur Aini Rakhmawati**, *Analisis pengelompokan peraturan kementerian denganmenggunakan k-means clustering*, Jurnal Sisfokom (Sistem Informasi dan Komputer) Vol 9(2020),no. 2, 152–157.
+
+Paper: [http://jurnal.atmaluhur.ac.id/index.php/sisfokom/article/view/817](http://jurnal.atmaluhur.ac.id/index.php/sisfokom/article/view/817)
+Dataset/Code: [http://doi.org/10.5281/zenodo.3700738](http://doi.org/10.5281/zenodo.3700738)
+
+- Muhammad Ainul Khakim,  Laily Rahmadhani,  Eko Setiyo Budi Purnomo,  Rahma WahyuIdayani,  and  **Nur  Aini  Rakhmawati**, *Analisa  jaringan  dokumentasi  dan  informasi  hukumkementerian tentang teknologi informasi menggunakan metode k-means clustering*, Fountain of Informatics Journal Vol 5(2020), no. 1, 27–34.
+
+Paper: [https://core.ac.uk/download/pdf/327691007.pdf](https://core.ac.uk/download/pdf/327691007.pdf)
+Dataset/Code:[http://doi.org/10.5281/zenodo.3700652](http://doi.org/10.5281/zenodo.3700652)
+
+- Ashr Hafiizh Tantri and **Nur Aini Rakhmawati**,*Ekstraksi informasi semantik dan spatiotemporal  pada  artikel  online  terkait  bencana  di  indonesia*,  JSINBIS  (Jurnal  Sistem  InformasiBisnis) Vol 10 (2020), no. 1, 114–121.
+
+Paper: [https://ejournal.undip.ac.id/index.php/jsinbis/article/view/28411](https://ejournal.undip.ac.id/index.php/jsinbis/article/view/28411)
+
+-  Muh Fachrul Minokaura, Annisa Afisina, Arief Rahman, Muhammad Ainur Rizal, **Nur Aini Rakhmawati**, *Studi empiris penggunaan framework pada website jaringan dokumentasi dan  informasi  hukum  daerah  pulau  jawa*,  Jurnal Ilmu Komunikasi UHO: Jurnal Penelitian Kajian Ilmu Komunikasi dan Informasi Vol 5(2020), no. 2, 93–101.
+
+Paper: [http://ojs.uho.ac.id/index.php/KOMUNIKASI/article/view/11682](http://ojs.uho.ac.id/index.php/KOMUNIKASI/article/view/11682)
+Dataset/Code: [http://doi.org/10.5281/zenodo.3700502 ](http://doi.org/10.5281/zenodo.3700502 )
+
+- 
