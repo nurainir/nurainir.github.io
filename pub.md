@@ -126,4 +126,16 @@ Paper: [https://ejournal.undip.ac.id/index.php/jsinbis/article/view/28411](https
 Paper: [http://ojs.uho.ac.id/index.php/KOMUNIKASI/article/view/11682](http://ojs.uho.ac.id/index.php/KOMUNIKASI/article/view/11682)
 Dataset/Code: [http://doi.org/10.5281/zenodo.3700502 ](http://doi.org/10.5281/zenodo.3700502 )
 
-- 
+- Eunike  Kardinata  and  **Nur  Aini  Rakhmawati** ,*Ekstraksi  relasi  meronymy  dengan  lexico-syntactic patterns*, Jurnal Edukasi dan Penelitian Informatika (JEPIN) Vol 6(2020), no. 1, 68–72.
+Paper: [https://core.ac.uk/download/pdf/324174335.pdf](https://core.ac.uk/download/pdf/324174335.pdf)
+
+- **Nur Aini Rakhmawati**, Abi Nubli Abadi, and Tubagus Hendro Pramono, *Social media ranking for local governments in indonesia*, Electronic Government, an International Journal Vol 16(2020), no. 4, 341–354.
+Paper: [https://www.inderscienceonline.com/doi/abs/10.1504/EG.2020.110607](https://www.inderscienceonline.com/doi/abs/10.1504/EG.2020.110607)
+
+- Akhmad Irsyad and **Nur Aini Rakhmawati**, *Community detection in twitter based on tweets similarities  in  indonesian  using  cosine  similarity  and  louvain  algorithms*,  Register:  Jurnal Ilmiah Teknologi Sistem Informasi Vol 6(2020), no. 1, 22–32.
+
+Paper: [https://core.ac.uk/download/pdf/268133492.pdf](https://core.ac.uk/download/pdf/268133492.pdf)
+
+- Nurrida Aini Zuhroh and **Nur Aini Rakhmawati** ,*Clickbait  detection:  A  literature  review  ofthe methods used* , Register:  Jurnal Ilmiah Teknologi Sistem Informasi6(2020), no. 1, 1–10
+
+Paper: [https://pdfs.semanticscholar.org/3aeb/0807d7530319ebf267121f0b7955806af15f.pdf](https://pdfs.semanticscholar.org/3aeb/0807d7530319ebf267121f0b7955806af15f.pdf)
