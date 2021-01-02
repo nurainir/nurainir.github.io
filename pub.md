@@ -37,6 +37,7 @@ Dataset/code: [http://doi.org/10.5281/zenodo.3804566](http://doi.org/10.5281/zen
 - Ahmad Choirun Najib and **Nur Aini Rakhmawati**,*Search  engine  for  halal  linked  open  data using  entity  ranking  approach*,  Proceeding  of  the  Electrical  Engineering  Computer  Scienceand Informatics vol 7(2020), no. 2, 56–62.
 
 Paper: [https://journal.portalgaruda.org/index.php/EECSI/article/view/2037](https://journal.portalgaruda.org/index.php/EECSI/article/view/2037)
+Dataset/Kode: [https://github.com/halaladdiits/halalnutritionfood-ranker](https://github.com/halaladdiits/halalnutritionfood-ranker)
 
 - Karima Mufidah, Novyant Syahputra, and **Nur Aini Rakhmawati** ,*Analisis aktor popular dan sutradara berpengaruh berdasarkan data dbpedia menggunakan algoritma closeness centrality dan node2vec*, UNIKOM Vol 18(2020), no. 1, 37–48
 
@@ -80,3 +81,28 @@ Dataset/code:[http://doi.org/10.5281/zenodo.3700541](http://doi.org/10.5281/zeno
 - Rahmat Hidayat,  Hapsari Wulandari,  Yumna Cahyaning,  Ardhi Dwi Firmansyah,  Brilliant Hartono, Rainal Yusril, and **Nur Aini Rakhmawati**, *Analisa permasalahan berbagai platform pinjaman daring (peer-to-peer lending) dan penanganannya di indonesia*, Inspiration:  JurnalTeknologi Informasi dan Komunikasi Vol 10(2020), no. 1, 45–56
 
 Paper: [https://jurnal.akba.ac.id/index.php/inspiration/article/view/2538](https://jurnal.akba.ac.id/index.php/inspiration/article/view/2538)
+
+- Yahya Noviko Rahman, Rizal Maulana Hadi, Mursyidatun Nabilah, Muhammad Hanif Wask-ito, and **Nur Aini Rakhmawati**, *Analisis penggunaan framework website jdih khusus peraturan kementerian  republik  indonesia*,  JURNAL  TEKNOLOGI  DAN  OPEN  SOURCE vol 3(2020),no. 1, 78–89.
+
+Paper: [http://ejournal.uniks.ac.id/index.php/JTOS/article/view/528](http://ejournal.uniks.ac.id/index.php/JTOS/article/view/528)
+Dataset/Code: [http://doi.org/10.5281/zenodo.3700713](http://doi.org/10.5281/zenodo.3700713)
+
+- Siti  Aminatus  Zehroh,  **Nur  Aini  Rakhmawati**,  Aris  Purwanti  Putri,  Alexander  Sidum  LK,and Muhammad Bagas Farhan, *Analisa pengaruh ulasan pembeli dan harga jual smartphoneterhadap tingginya penjualan smartphone secara online. studi kasus smartphone oppo f9 4gbdi  toko  online  tokopedia*, Journal of Information Engineering and Educational Technology vol 4(2020), no. 1, 10–14.
+
+Paper: [https://journal.unesa.ac.id/index.php/jieet/article/view/6091](https://journal.unesa.ac.id/index.php/jieet/article/view/6091)
+
+- Rifardhi Reza Saputra, Helmi Muharram, Diajeng Ciptaning Ayu, Astian Afif, Juan Jan, and **Nur Aini Rakhmawati**, *Analisis  empiris  akun  jasa  gesek  tunai  pada  instagram*, ETTISAL :Journal of Communication vol 5(2020), no. 1, 123–132.
+
+Paper: [https://ejournal.unida.gontor.ac.id/index.php/ettisal/article/view/3692](https://ejournal.unida.gontor.ac.id/index.php/ettisal/article/view/3692)
+
+- Dinda  Dinda,  Adellya  D,  Luthfi  Lazuardi,  Yoel  Dimas,  Rihhadata  Aisy,  and  **Nur  AiniRakhmawati** ,*Analisa  perilaku  pemain  video  game  online  melalui  pengamatan  media  sosial(studi kasus :  Game online pubg)*, POSITIF : Jurnal Sistem dan Teknologi Informasi vol 6(2020),no. 1, 38–46
+
+Paper: [https://ejurnal.poliban.ac.id/index.php/Positif/article/view/856](https://ejurnal.poliban.ac.id/index.php/Positif/article/view/856)
+
+-  **Nur  Aini  Rakhmawati**,  Rheindra  Alfarhizi,  and  Irmasari  Hafidz, *Penerapan  social  net-work  analysis  dengan  menggunakan  metode  sociomatrix  pada  akun  instagram  siswa  sma  di surabaya*, SISTEMASI: Jurnal Sistem Informasi vol 9(2020), no. 2, 333–342.
+
+Paper: [http://sistemasi.ftik.unisi.ac.id/index.php/stmsi/article/view/807](http://sistemasi.ftik.unisi.ac.id/index.php/stmsi/article/view/807)
+
+- Dinatha, Pande Made Risky Cahya, and **Nur Aini Rakhmawati**. *Komparasi Term Weighting dan Word Embedding pada Klasifikasi Tweet Pemerintah Daerah.* Jurnal Nasional Teknik Elektro dan Teknologi Informasi 9.2: 155-161.
+
+Paper: [https://journal.ugm.ac.id/v3/JNTETI/article/view/90](https://journal.ugm.ac.id/v3/JNTETI/article/view/90)
