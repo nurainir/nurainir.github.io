@@ -151,3 +151,6 @@ Paper: [https://core.ac.uk/download/pdf/268133492.pdf](https://core.ac.uk/downlo
 - Nurrida Aini Zuhroh and **Nur Aini Rakhmawati** ,*Clickbait  detection:  A  literature  review  ofthe methods used* , Register:  Jurnal Ilmiah Teknologi Sistem Informasi6(2020), no. 1, 1–10
 
 Paper: [https://pdfs.semanticscholar.org/3aeb/0807d7530319ebf267121f0b7955806af15f.pdf](https://pdfs.semanticscholar.org/3aeb/0807d7530319ebf267121f0b7955806af15f.pdf)
+
+## 2019
+Please go to [2019](2019)
