@@ -161,4 +161,22 @@ Paper: [https://core.ac.uk/download/pdf/268133492.pdf](https://core.ac.uk/downlo
 Paper: [https://pdfs.semanticscholar.org/3aeb/0807d7530319ebf267121f0b7955806af15f.pdf](https://pdfs.semanticscholar.org/3aeb/0807d7530319ebf267121f0b7955806af15f.pdf)
 
 ## 2019
-Please go to [2019](2019)
+
+1.  Ahimsa  Denhas  Afrizal,  **Nur  Aini  Rakhmawati**,  and  Aris  Tjahyanto,New  filtering  schemebased on term weighting to improve object based opinion mining on tourism product reviews,Procedia Computer Science161(2019), 805–812.
+2.  Faizal Johan Atletiko, **Nur  Aini  Rakhmawati**, and HartantyaA Ts,Determination  of  freightrates based on package dimension and distance of delivery using fuzzy logic system in angkotinapplication, Procedia Computer Science161(2019), 527–534.
+3.  Ahmad Laroy Bafi,  A. Pahmi,  Dinda Meidianti Kusuma Putri,  Shalma Rachmayani Putri,Firwam Al Ayubi, and **Nur  Aini  Rakhmawati**,Analisa demografi dan jaringan penjudi daring di twitter menggunakan metode social network analysis, ETTISAL : Journal of Communica-tion4(2019), no. 2, 221–229.
+4.  Yayan Irfan Ferdiawan, Permata Ayu Dian Nurjanah, Etika Pahang Krisdyan, Arif Hidayatul-lah, Hans Julio Manogari Sirait, **Nur  Aini  Rakhmawati**, Cara Sitasi, and YI Ferdiawan,Hoaximpact to community through social media indonesia, Cakrawala19(2019), no. 1, 121–124.
+5.  Eunike  Andriani  Kardinata  and  **Nur  Aini  Rakhmawati**,Integration  of  crowdsourcing  intoontology relation extraction, Procedia Computer Science161(2019), 826–833.
+6.  Abdul Azizun Nafi,  Naufal Tsabit,  **Nur  Aini  Rakhmawati**,  Regita Ayu Cahyani Zulaikhah,and Ufaira Khanzahasna Nanfaiq Nadhifa,Penipuan sebagai hasil manipulasi dunia maya diindonesia, INTEGER: Journal of Information Technology4(2019), no. 1.
+7.  Ahmad Choirun Najib, Akhmad Irsyad, Ghiffari Assamar Qandi, and **Nur  Aini  Rakhmawati**,Perbandingan  metode  lexicon-based  dan  svm  untuk  analisis  sentimen  berbasis  ontologi  padakampanye pilpres indonesia tahun 2019 di twitter, Fountain of Informatics Journal4(2019),no. 2, 41–48.
+8.  Ahmad  Choirun  Najib  and  **Nur  Aini  Rakhmawati**,A  systematic  literature  review  on  theproduct  ranking  methods, Khazanah Informatika:  Jurnal Ilmu Komputer dan Informatika5(2019), no. 1, 88–98.
+9.  Pandu Gumelar Pratama and **Nur  Aini  Rakhmawati**,Social bot detection on 2019 indonesiapresident candidates supporters tweets, Procedia Computer Science161(2019), 813–820.
+10.  Ari Cahaya Puspitaningrum, Endah Septa Sintiya, and Iqbal Ramadhani Mukhlis,Strategyto  use  local  governments  facebook  page  to  improve  public  services,  Jurnal Sistem Informasi15(2019), no. 2, 42–51.
+11.  **Nur  Aini  Rakhmawati** and Lutfi Nur Fadzilah,Dataset characteristics identification for fed-erated sparql query, Scientific Journal of Informatics6(2019), no. 1, 23–33.
+12.  **Nur  Aini  Rakhmawati** and Adnan Mauludin Fajriyadi,Search halal products using bm25f andthe analytic hierarchy process, Jurnal Edukasi dan Penelitian Informatika (JEPIN)5(2019),no. 2, 171–175.
+13.  **Nur  Aini  Rakhmawati**,  Jauhar Fatawi,  Ahmad Choirun Najib,  and Azmi Adi Firmansyah,Linked  open  data  for  halal  food  products,  Journal  of  King  Saud  University-Computer  andInformation Sciences (2019).
+14.  **Nur  Aini  Rakhmawati**, Adinda Ayudyah Rachmawati, Ardha Perwiradewa, Bagus Tri Han-doko,  Muhammad  Reza  Pahlawan,  Rafika  Rahmawati,  Ludia  Rosema  Dewi,  and  AhmadNaufal,Konsep  perlindungan  hukum  atas  kasus  pelanggaran  privasi  dengan  pendekatanperundang-undangan  dan  pendekatan  konseptual,  JUSTITIA  JURNAL  HUKUM3(2019),no. 2.
+15.  **Nur  Aini  Rakhmawati**, Sayekti Harits Suryawan, Muhammad Ariful Furqon, and Deny Her-mansyah,Indonesias  public  application  programming  interface  (api),  Jurnal Penelitian Posdan Informatika9(2019), no. 2, 85–95.
+16.  **Nur  Aini  Rakhmawati**, Muhammad Zuhri, Radityo Prasetianto Wibowo, Anwar Romadhon,Herdy Ardiansyah, and Olive Khoirul,Benchmarking mysql and nosql databases on egovbenchapplication, Journal of Information Technology and Its Utilization2(2019), no. 1, 18–23.
+17.  Faris Sandra Saputra, Adhi Yoga Muris Pamungkas, Syafrie Dwi Faisal, **Nur  Aini  Rakhmawati**,et al.,Pentingnya memahami etika dalam mengambil dan mengolah data, Jurnal KomunikasiProfesional3(2019), no. 1.
+18.  Ashr  Hafiizh  Tantri  and  **Nur  Aini  Rakhmawati**,Designing  a  natural  disaster  ontology  forindonesia, 2019 12th International Conference on Information & Communication Technologyand System (ICTS), IEEE, 2019, pp. 130–134
