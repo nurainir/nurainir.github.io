@@ -6,11 +6,6 @@ Paper: To appear (IEEE)
 Dataset: [https://doi.org/10.5281/zenodo.4099125](https://doi.org/10.5281/zenodo.4099125)
 Code: [https://github.com/halaladdiits/halalentityresolution](https://github.com/halaladdiits/halalentityresolution)
 
- - Puspa Nur Indrianingtyas, Fanny Azhary Formen, and **Nur Aini Rakhmawati**, *Analisis suku diindonesia menggunakan algoritma closeness centrality*, Positif : Jurnal Sistem dan TeknologiInformasi vol 6(2020), no. 2, 137–142.
- 
- Paper: [https://ejurnal.poliban.ac.id/index.php/Positif/article/view/923](https://ejurnal.poliban.ac.id/index.php/Positif/article/view/923)
- Dataset/code:  [http://doi.org/10.5281/zenodo.3810747](http://doi.org/10.5281/zenodo.3810747)
-
  - Doohan Ryan Fathony, Sulthan Alif Secca Ramadhani, Vincentian Michae Anton Poetra, and **Nur Aini Rakhmawati**,*Analisa pengaruh sekolah daring terhadap meningkatnya pemainonline game,* POSITIF : Jurnal Sistem dan Teknologi Informasi vol 6(2020), no. 2, 121–126
  
  Paper: [https://ejurnal.poliban.ac.id/index.php/Positif/article/view/1055](https://ejurnal.poliban.ac.id/index.php/Positif/article/view/1055)
@@ -21,6 +16,19 @@ Code: [https://github.com/halaladdiits/halalentityresolution](https://github.com
 Paper: [http://jurnal.ubl.ac.id/index.php/explore/article/view/1550](http://jurnal.ubl.ac.id/index.php/explore/article/view/1550)
 Dataset:[http://doi.org/10.5281/zenodo.4160433](http://doi.org/10.5281/zenodo.4160433)
 
+
+- Febriyora Surya Pratiwi, Novita Indah Pitaloka, Erizkika Mochammad Arsy Rofi, Izzatul Isma, Chamdana Taqie Samboro, **Nur Aini Rakhmawati**, *Analisa Kegiatan Arisan Online yang Dilakukan di Grup Facebook*, JIEET (Journal of Information Engineering and Educational Technology) Vol 4 no 2 2020,60-66
+
+Paper: [https://journal.unesa.ac.id/index.php/jieet/article/view/8856](https://journal.unesa.ac.id/index.php/jieet/article/view/8856)
+
+- Muhammad Iqbal Aditama, Rizqeya Irfan Pratama, Kevin Hafizzana Untoro Wiwaha, **Nur Aini Rakhmawati**, *Analisis Klasifikasi Sentimen Pengguna Media Sosial Twitter Terhadap Pengadaan Vaksin COVID-19*, JIEET (Journal of Information Engineering and Educational Technology) Vol 4 no 2 2020,90-92
+
+Paper: [https://journal.unesa.ac.id/index.php/jieet/article/view/11018](https://journal.unesa.ac.id/index.php/jieet/article/view/11018)
+
+ - Puspa Nur Indrianingtyas, Fanny Azhary Formen, and **Nur Aini Rakhmawati**, *Analisis suku diindonesia menggunakan algoritma closeness centrality*, Positif : Jurnal Sistem dan TeknologiInformasi vol 6(2020), no. 2, 137–142.
+ 
+ Paper: [https://ejurnal.poliban.ac.id/index.php/Positif/article/view/923](https://ejurnal.poliban.ac.id/index.php/Positif/article/view/923)
+ Dataset/code:  [http://doi.org/10.5281/zenodo.3810747](http://doi.org/10.5281/zenodo.3810747)
 
 - Muhammad Ainul Khakim, Brilliant Hartono, and **Nur Aini Rakhmawati**, *Analisis data kereta api  dan  stasiun  pada  daerah  operasi  viii  surabaya  menggunakan  sparql  dengan  algoritma betweenness centrality*, CogITo Smart Journal Vol 6(2020), no. 2, 128–140. 
 
