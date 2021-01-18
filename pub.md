@@ -6,6 +6,11 @@ Paper: To appear (IEEE)
 Dataset: [https://doi.org/10.5281/zenodo.4099125](https://doi.org/10.5281/zenodo.4099125)
 Code: [https://github.com/halaladdiits/halalentityresolution](https://github.com/halaladdiits/halalentityresolution)
 
+- Hidayat, R., Pratama, R. P., & **Nur Aini Rakhmawati** (2020) *Analisis Entity Matching Pada Dataset Smartphone Menggunakan Metode Sif, Rnn, Attention, Dan Hybrid*. Teknosains: Media Informasi Sains Dan Teknologi, volume 15 nomor (1), 67-77.
+
+ Paper: [http://journal.uin-alauddin.ac.id/index.php/teknosains/article/view/17583](http://journal.uin-alauddin.ac.id/index.php/teknosains/article/view/17583)
+ Dataset/code:  [http://doi.org/10.5281/zenodo.4284357](http://doi.org/10.5281/zenodo.4284357)
+
  - Doohan Ryan Fathony, Sulthan Alif Secca Ramadhani, Vincentian Michae Anton Poetra, and **Nur Aini Rakhmawati**,*Analisa pengaruh sekolah daring terhadap meningkatnya pemainonline game,* POSITIF : Jurnal Sistem dan Teknologi Informasi vol 6(2020), no. 2, 121–126
  
  Paper: [https://ejurnal.poliban.ac.id/index.php/Positif/article/view/1055](https://ejurnal.poliban.ac.id/index.php/Positif/article/view/1055)
