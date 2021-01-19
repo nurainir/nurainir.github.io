@@ -1,12 +1,10 @@
-##2021
+## 2021
 
-- Alvin Edgar Permana, Arvy Muhammad Reyhan, Hidayattul Rafli, **Nur Aini Rakhmawati**, *ANALISA TRANSAKSI BELANJA ONLINE PADA MASA PANDEMI COVID-19*, JURNAL TEKNOINFO, Volume 15 no 1 (2021). 
+- Alvin Edgar Permana, Arvy Muhammad Reyhan, Hidayattul Rafli, **Nur Aini Rakhmawati**, *ANALISA TRANSAKSI BELANJA ONLINE PADA MASA PANDEMI COVID-19*, JURNAL TEKNOINFO, Volume 15 no 1 (2021) 32-37. 
 
 Paper: [https://ejurnal.teknokrat.ac.id/index.php/teknoinfo/article/view/868](https://ejurnal.teknokrat.ac.id/index.php/teknoinfo/article/view/868)
 
-	
-PDF
-32-37 
+
 
 ## 2020
 
