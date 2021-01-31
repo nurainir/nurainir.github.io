@@ -4,6 +4,20 @@
 
 Paper: [https://ejurnal.teknokrat.ac.id/index.php/teknoinfo/article/view/868](https://ejurnal.teknokrat.ac.id/index.php/teknoinfo/article/view/868)
 
+- Alfrida  Rahmawati,  Najla  Lailin  Nikmah,  Reynaldi  Drajat  Ageng  Perwira,  and  **Nur  AiniRakhmawati**, *Analisis topik konten channel youtube k-pop indonesia menggunakan latent dirichlet allocation*, Teknologi:  Jurnal Ilmiah Sistem Informasi vol 11(2021), no. 1, 16–25.
+
+paper:[https://journal.unipdu.ac.id/index.php/teknologi/article/view/2155](https://journal.unipdu.ac.id/index.php/teknologi/article/view/2155)
+code:[https://doi.org/10.5281/zenodo.4153458](https://doi.org/10.5281/zenodo.4153458)
+
+- **Nur Aini Rakhmawati**, Ahmad Naufal Muzakki, and Luthfi Lazuardi, *Implementasi closeness centrality dalam analisis penyanyi indonesia di dbpedia Indonesia*, Jurnal Informatika SunanKalijaga Vol 6(2021), no. 1, 21–28.7.  
+
+paper:[http://ejournal.uin-suka.ac.id/saintek/JISKA/article/view/1960](http://ejournal.uin-suka.ac.id/saintek/JISKA/article/view/1960)
+code: [https://doi.org/10.5281/ZENODO.3956065](https://doi.org/10.5281/ZENODO.3956065)
+
+
+- Luh Putu Gayatri Widiastuti, Nida Inayah Maghfirani, and **Nur Aini Rakhmawati**, *Klasterisasi pahlawan nasional indonesia berdasarkan daerah asal menggunakan algoritma community detection*, SISTEMASI:Jurnal Sistem Informasi Vol 10(2021), no. 1, 60–71.
+
+
 
 
 ## 2020
