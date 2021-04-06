@@ -1,5 +1,26 @@
 ## 2021
 
+- Adam  Akbar,  Rivanda  Putra  Pratama,  and  **Nur  Aini  Rakhmawati**,*Implementasi algoritma mondrian multidimensional k-anonymity pada biodata calon legislatif*, Jurnal Eksplora Informatika Vol 10(2021), no. 2, 131–137.2. 
+
+paper:[https://eksplora.stikom-bali.ac.id/index.php/eksplora/article/view/490](https://eksplora.stikom-bali.ac.id/index.php/eksplora/article/view/490)
+code:[https://doi.org/10.5281/zenodo.4444801](https://doi.org/10.5281/zenodo.4444801)
+  
+- Reisa Permatasari and **Nur Aini Rakhmawati**, *Features selection for entity resolution in prostitution on twitter, International Journal of Advances in Data and Information Systems Vol 2(2021),no. 1, 53–61.3.  
+
+paper:[http://www.ijadis.org/index.php/IJADIS/article/download/features-selection-for-entity-resolution-in-prostitution-on-twit/23](http://www.ijadis.org/index.php/IJADIS/article/download/features-selection-for-entity-resolution-in-prostitution-on-twit/23)
+
+- **Nur  Aini  Rakhmawati**,  Farhan  Aji,  Reza  Safira,  et  al., *Visualisasi perundungan pada livestreaming gamer wanita menurut UU ITE 2008*,  Indonesian  Journal  of  Business  Intelligence(IJUBI) vol 3(2021), no. 2, 61–66.4. 
+ 
+paper:[https://ejournal.almaata.ac.id/index.php/IJUBI/article/view/1605](https://ejournal.almaata.ac.id/index.php/IJUBI/article/view/1605)
+
+- Vina  Dewi  Ramadhanty,   Rafi  Indra  Permana,   Belia  Rida  Syifa  Fauzia,   and  **Nur  Aini Rakhmawati**, *Analisis faktor penggunaan dompet digital di kalangan mahasiswa perguruan tinggi surabaya*, Jurnal Teknik Informatika dan Sistem Informasi vol 8(2021), no. 1, 312–322.5.  
+
+paper:[http://jurnal.mdp.ac.id/index.php/jatisi/article/view/584](http://jurnal.mdp.ac.id/index.php/jatisi/article/view/584)
+
+- Syifa  Ilma  Nabila  Suwandi,  Xavier  Wahyuadi  Seloatmodjo,  Alexandra  Situmorang,  and **Nur Aini Rakhmawati**, *Analisis privasi data pengguna contact tracing application pengendaliancovid-19 di indonesia berdasarkan perpres ri no. 95 tahun 2018 tentang sistem pemerintahan berbasis elektronik*, Teknologi:  Jurnal Ilmiah Sistem Informasi11(2021), no. 1, 46–58.
+
+paper:[http://journal.unipdu.ac.id:8080/index.php/teknologi/article/viewFile/2174/1179](http://journal.unipdu.ac.id:8080/index.php/teknologi/article/viewFile/2174/1179)
+
 - Alvin Edgar Permana, Arvy Muhammad Reyhan, Hidayattul Rafli, **Nur Aini Rakhmawati**, *ANALISA TRANSAKSI BELANJA ONLINE PADA MASA PANDEMI COVID-19*, JURNAL TEKNOINFO, Volume 15 no 1 (2021) 32-37. 
 
 Paper: [https://ejurnal.teknokrat.ac.id/index.php/teknoinfo/article/view/868](https://ejurnal.teknokrat.ac.id/index.php/teknoinfo/article/view/868)
