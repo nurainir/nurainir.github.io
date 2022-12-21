@@ -19,7 +19,18 @@
 from Google 3800 USD,)
 - N^2 Women Fellowship Student Awards 2008 ( Grant : 500 USD from Microsoft research)
 
- 
+# Magazine
+- Majalah INFOLINUX 2004 : Mencintai Setelah mendalami
+- Majalah Tempo Febuari 2008 : Ada Linux Rasa Rawon
+- Koran Jawapos 12 September 2008 : Nur Aini Rakhmawati, si Mungil Jago Teknologi Informasi
+- Majalah Kartini November 2008 : Wanita pertama dunia di Joomla
+- Majalah Biskom September 2009 : Para Perintis TI Indonesia
+- Majalah Gatra April 2010 : Gila coding tidak lupa cooking
+- Majalah INFOKomputer April 2010 : Inspirasi Kiprah Kartini Era Teknologi Informasi
+- Majalah Ummi No.11/XXII/Mei 2010 : Nur Aini Rakhmawati, Srikandi di Dunia Teknologi Informasi
+- Majalah Forsel Juni 2011 : Tidak ada kata berhenti berkarya ketika titel Ibu kita sandang (Nur Aini Rakhmawati, Perempuan Developer Android)
+- Majalah Intisari Juni 2011 : Indonesia Bisa
+
 # Academic Accounts
  - Scopus [55513984400](https://www.scopus.com/authid/detail.uri?authorId=55513984400)
  - Google Scholar [scholar](https://scholar.google.com/citations?user=Nbqq79EAAAAJ&hl=id)
