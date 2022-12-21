@@ -3,6 +3,7 @@
  - Email nur dot aini at is dot its dot ac dot id
 
 # Awards and Honours
+- Best paper award at ICITDA 2022
 - The first winner of Inovasi Surabaya Competition 2022 ( Halal City App) 
 - Best Graphistry App  at Tiger Graph Web App Hackathon 2021
 - Neo4J Graphie Winner for MVP Asia Community 2020
