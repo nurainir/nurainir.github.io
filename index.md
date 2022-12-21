@@ -1,6 +1,23 @@
  - Associate Professor of [Information Systems Department](https://www.its.ac.id/si/), [Institut Teknologi Sepuluh Nopember](https://www.its.ac.id/) Surabaya Indonesia
- - Vice Chair for Halal Center  [Institut Teknologi Sepuluh Nopember](https://www.its.ac.id/)
+ - Deputy head of Halal Center  [Institut Teknologi Sepuluh Nopember](https://www.its.ac.id/)
  - Email nur dot aini at is dot its dot ac dot id
+
+# Awards and Honours
+- The first winner of Inovasi Surabaya Competition 2022 ( Halal City App) 
+- Best Graphistry App  at Tiger Graph Web App Hackathon 2021
+- Neo4J Graphie Winner for MVP Asia Community 2020
+- Best paper award at the International Conference on Halal Innovation in Products and Services 2018 (i CHIPS 2018)
+- ASEAN Science Leadership Fellows 2017
+- Best selected posters from ASEAN Young Scientiest, STI Days, ASEAN­EU, 2016
+- The winner of Syster Pass It On Award for Spring 2011
+- The first place of Entity Ranking Yahoo Semantic Search 2011 (USA)
+- 100 Indonesia Women Researcher Inspiration 2010 (Gatra Magazine)
+- Special Mention for Open Source Category at INAICTA 2009 (Nusantara View Project)
+- Indonesian Youth Inspiring Award 2008 PKS version
+- Grace Hopper Celebration of Women in Computing Conference full scholarship 2008 (travel grant
+from Google 3800 USD,)
+- N^2 Women Fellowship Student Awards 2008 ( Grant : 500 USD from Microsoft research)
+
  
 # Academic Accounts
  - Scopus [55513984400](https://www.scopus.com/authid/detail.uri?authorId=55513984400)
