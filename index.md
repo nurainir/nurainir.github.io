@@ -1,9 +1,9 @@
- - Associate Professor of [Information Systems Department](https://www.its.ac.id/si/), [Institut Teknologi Sepuluh Nopember](https://www.its.ac.id/) Surabaya Indonesia
+ - Professor of [Information Systems Department](https://www.its.ac.id/si/), [Institut Teknologi Sepuluh Nopember](https://www.its.ac.id/) Surabaya Indonesia
  - Deputy head of Halal Center  [Institut Teknologi Sepuluh Nopember](https://www.its.ac.id/)
  - Email nur dot aini at is dot its dot ac dot id
 
 # Awards and Honours
-- Best paper award at ICITDA 2022
+- Best presenter at The 8th International Conference On Electrical, Electronics And Information Engineering 2023
 - The first winner of Inovasi Surabaya Competition 2022 ( Halal City App) 
 - Best Graphistry App  at Tiger Graph Web App Hackathon 2021
 - Neo4J Graphie Winner for MVP Asia Community 2020
