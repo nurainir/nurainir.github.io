@@ -57,6 +57,14 @@ from Google 3800 USD,)
  - M.S [Department of Electronic Engineering](https://ece-o.ntust.edu.tw/), [National Taiwan University of Science and Technology](https://www.ntust.edu.tw/) Taipei, Taiwan
  - Ph.D [Insight Centre for Data Analytics](https://nuig.insight-centre.org/), [NUI Galway](www.nuigalway.ie/), Ireland
 
-# Recent Publications
-
-please go to [pub](pub)
+# Recent Publications (2024)
+- Haryanti, T., Rakhmawati, N. A., & Subriadi, A. P. (2024). Measuring the digital transformation maturity level independently with the design science research methodology. Systems Engineering, 27(1), 159–176.
+- Islammia, S. P., & Rakhmawati, N. A. (2024). Halal Restaurant Integration Using Bidirectional Recurrent Neural Networks. International Journal on Food System Dynamics, 15(1), 55–66.
+- Sissy, P., Aisadira, M., Khairani, D., Syahda, F., & Rakhmawati, N. A. (2024). Pengaruh Marketing Digital Shopee Affiliate pada Minat Beli Mahasiswa Sistem Informasi ITS. Jurnal Manuhara: Pusat Penelitian Ilmu Manajemen Dan Bisnis, 2(1), 182–197.
+- Hasya, D. K., Safitri, D., Putra, D. R., Maulana, F. B. G., & Rakhmawati, N. A. (2024). Implikasi Etika dalam Profil dan Strategi Penipuan Online dalam Transaksi e-Commerce di Ranah Cybercrime. Jurnal Manajemen Riset Inovasi, 2(1), 236–247.
+- Alamsyah, B. R., Dewantara, A. S. D., Iswidono, D. M., Santoso, N. R., & Rakhmawati, N. A. (2024). Analisis Dampak Bermain Game Mobile Legends Terhadap Perilaku Toxic Anak-Anak Hingga Dewasa. Jurnal Insan Pendidikan Dan Sosial Humaniora, 2(1), 94–110.
+- Sava, A. A., Mizoguchi, K. M. ud, Hardika, R. A., Luthfyardy, R. N., & Rakhmawati, N. A. (2024). Pengaruh Penggunaan Metode Pembayaran QRIS Terhadap Keputusan Pembelian Mahasiswa ITS: Studi Kasus Kantin Pusat ITS. Jurnal Sistem Informasi Dan Ilmu Komputer, 2(1), 98–111.
+- Eldon, T., Naufal, A. D., Ricardo, M. B., Ilhama, Z. Z., Aryadwika, E., & Rakhmawati, N. A. (2024). Pengaruh Iklan Blackpink Sebagai Brand Ambassador Terhadap Minat Beli dalam Platform Tokopedia. Jurnal Kendali Teknik Dan Sains, 2(1), 119–137.
+- Siahaan, I. R., Sipayung, R. N., Lita, I., Naseela, Q. Z. I., Hanny, H., & Rakhmawati, N. A. (2024). ANALISIS PRAKTIK PERLINDUNGAN DATA PRIBADI PADA APLIKASI’SATUSEHAT’TERHADAP REGULASI HUKUM DI INDONESIA. Jurnal Teknoinfo, 18(1), 141–150.
+- Ilham, K., Umair, M. M., Destiano, A., & Ghiffari, M. (2024). Analisis Pengaruh Media Sosial Tiktok Terhadap Spiritual pada Mahasiswa Sistem Informasi ITS. Al-Ittishol: Jurnal Komunikasi Dan Penyiaran Islam, 5(1), 19–37.
+- Adi, S. I. R., Bakkara, B., Zega, K. A., Vielita, F. N., & Rakhmawati, N. A. (2024). ANALISIS SENTIMEN MASYARAKAT TERHADAP PROGRESS IKN MENGGUNAKAN MODEL DECISION TREE. JIKA (Jurnal Informatika), 8(1), 57–65.
