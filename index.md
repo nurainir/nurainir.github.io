@@ -2,6 +2,11 @@
  - Deputy head of Halal Center  [Institut Teknologi Sepuluh Nopember](https://www.its.ac.id/)
  - Email nur dot aini at is dot its dot ac dot id
 
+# My Qoutes
+- code is for a fun, not for a fund
+- I can not put eyeliner, but I can code one liner :)
+
+
 # Awards and Honours
 - Best presenter at The 8th International Conference On Electrical, Electronics And Information Engineering 2023
 - The first winner of Inovasi Surabaya Competition 2022 ( Halal City App) 
