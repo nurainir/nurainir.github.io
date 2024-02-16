@@ -2,7 +2,7 @@
  - Deputy head of Halal Center  [Institut Teknologi Sepuluh Nopember](https://www.its.ac.id/)
  - Email nur dot aini at is dot its dot ac dot id
 
-# My Qoutes
+# My Quotes
 - code is for a fun, not for a fund
 - I can not put eyeliner, but I can code one liner :)
 
