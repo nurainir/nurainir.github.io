@@ -2,7 +2,7 @@
  - Head of Postgraduate Study Program of Information Systems Department, Institut
 Teknologi Sepuluh Nopember
  - Deputy head of Halal Center 2020-2024  [Institut Teknologi Sepuluh Nopember](https://www.its.ac.id/)
- - Email nur dot aini at is dot its dot ac dot id
+ - Email nur dot aini at its dot ac dot id
 
 # My Quotes
 - code is for a fun, not for a fund
@@ -10,7 +10,7 @@ Teknologi Sepuluh Nopember
 
 
 # Awards and Honours
-- Best paper at 2024 IEEE International Conference on Computing [Analysis and Evaluation of User Acceptance Mobile E-Learning Continuing Medical Education Using Modification TAM 2 and ECT] (https://ieeexplore.ieee.org/abstract/document/10928173/)
+- Best paper at 2024 IEEE International Conference on Computing [Analysis and Evaluation of User Acceptance Mobile E-Learning Continuing Medical Education Using Modification TAM 2 and ECT](https://ieeexplore.ieee.org/abstract/document/10928173/)
 - Best presenter at The 8th International Conference On Electrical, Electronics And Information Engineering 2023
 - The first winner of Inovasi Surabaya Competition 2022 ( Halal City App) 
 - Best Graphistry App  at Tiger Graph Web App Hackathon 2021
